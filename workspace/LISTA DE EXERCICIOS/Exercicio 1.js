@@ -22,6 +22,6 @@ if (media < 5) {
 } else if (media >= 5 && media <= 7) {
     console.log('Recuperação');
 } else {
-    cosole.log('Passou de semestre');
+    console.log('Passou de semestre');
 }
 
